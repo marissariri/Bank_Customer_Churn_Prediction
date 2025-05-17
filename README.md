@@ -1,14 +1,14 @@
-<h2><b>Project: Case Study Feature Importance Analysis & Model Interpretation</b></h>
-<p><b>Deskripsi Assignment:</b></p>
-<br>Menyelesaikan case study terkait customer churn modelling</br>
-<p><b>Detail Assignment:</b></p>
-<br>Anda seorang konsultan data dari salah satu firma konsultan diminta oleh tim bisnis divisi Payment dari sebuah lembaga 
+<b>Project: Case Study Feature Importance Analysis & Model Interpretation</b>
+<br><b>Deskripsi Assignment:</b></br>
+Menyelesaikan case study terkait customer churn modelling
+<br><b>Detail Assignment:</b></br>
+<p>Anda seorang konsultan data dari salah satu firma konsultan diminta oleh tim bisnis divisi Payment dari sebuah lembaga 
 pinjaman online untuk memprediksi user mana yang tidak akan menggunakan platform mereka lagi untuk melakukan pembayaran online. 
 Mereka sebelumnya pernah meminta konsultan lain untuk membuat modelnya namun konsultan tersebut tidak bisa menjawab mengapa customer 
 diprediksi churn atau tidak berdasarkan model yang dibuat sehingga model tersebut tidak bisa dipakai karena tidak transparan 
-dan tidak bisa memperoleh insight apapun dari model tersebut.</br>
-<p><b>Dataset:</p></b>
-<br>- user_id: customer account number.</br>
+dan tidak bisa memperoleh insight apapun dari model tersebut.</p>
+<br><b>Dataset:</p></br>
+- user_id: customer account number.
 <br>- attrition_flag: customer status (Existing and Attrited).</br>
 <br>- customer_age: age of the customer.</br>
 <br>- gender: gender of customer (M for male and F for female).</br>
