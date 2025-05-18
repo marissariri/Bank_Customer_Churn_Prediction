@@ -1,4 +1,4 @@
-<b>Project: Case Study Feature Importance Analysis & Model Interpretation</b>
+<h2><b>Project: Case Study Feature Importance Analysis & Model Interpretation</b></h2>
 
 <br><b>Deskripsi Assignment:</b></br>
 Menyelesaikan case study terkait customer churn modelling
